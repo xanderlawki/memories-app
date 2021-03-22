@@ -1,1 +1,1 @@
-# memories-app
+# memories
